@@ -13,4 +13,4 @@ El código se encuentra en el notebook ```main.ipynb```.
 
 ## HTML
 
-El html del jupyter notebook está en el archivo ```index.html```, o bien en la [página de GitHUb](https://hugojira.github.io/deteccionAnomalias/) del repositorio.
+El html del jupyter notebook está en el archivo ```index.html```, o bien en la [página de GitHub](https://hugojira.github.io/deteccionAnomalias/) del repositorio.
