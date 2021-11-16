@@ -1,5 +1,14 @@
 # Detección de Anomalías
 
+**Proyecto**: 3
+
+**Equipo**:
+-Ibsan Otniel Morales Yepiz
+-Hugo de Jesús Valenzuela Chaparro
+-Héctor Rodríguez Domínguez
+
+*** 
+
 Aplicación de métodos de anomalías, con uso de la librería de ```scikit-learn``` en Python, los métodos aplicados son
 
 - Isolation Forest
