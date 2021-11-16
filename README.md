@@ -1,6 +1,6 @@
 # Detección de Anomalías
 
-Aplicación de métodos de anomalías, con use de la librería de ```scikit-learn```, los métodos aplicados son
+Aplicación de métodos de anomalías, con uso de la librería de ```scikit-learn``` en Python, los métodos aplicados son
 
 - Isolation Forest
 - Local Outlier Factor
