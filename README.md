@@ -3,9 +3,9 @@
 **Proyecto**: 3
 
 **Equipo**:
--Ibsan Otniel Morales Yepiz
--Hugo de Jesús Valenzuela Chaparro
--Héctor Rodríguez Domínguez
+- Ibsan Otniel Morales Yepiz
+- Hugo de Jesús Valenzuela Chaparro
+- Héctor Rodríguez Domínguez
 
 *** 
 
