@@ -9,3 +9,8 @@ Aplicación de métodos de anomalías, con uso de la librería de ```scikit-lear
 ## Código
 
 El código se encuentra en el notebook ```main.ipynb```.
+
+
+## HTML
+
+El html del jupyter notebook está en el archivo ```index.html```, o bien en la [página de GitHUb](https://hugojira.github.io/deteccionAnomalias/) del repositorio.
