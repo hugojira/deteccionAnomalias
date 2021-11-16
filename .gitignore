@@ -4,3 +4,5 @@
 **/.idea/**/modules.xml
 .idea
 .idea/*
+*/.ipynb_checkpoints/*
+.ipynb_checkpoints/
